@@ -20,6 +20,11 @@ JSON Web Service <br>
 -> https://api.kadircolak.com/Konum/JSON/API/ShowDistrict?plate=34 (All districts in Istanbul) <br>
 -> https://api.kadircolak.com/Konum/JSON/API/ShowTown?plate=34&district=BAŞAKŞEHİR  (All neighborhoods and villages in Başakşehir district of Istanbul city) <br>
 
+# How is the file location configuration?
+
+localhost:3000/SOAP/TurkeyLocation.asmx <br> 
+localhost:3000/JSON/API/ShowAllCity 
+
 # Where can I access the project's data source?
 
 It will be shared as a new repository on my Github profile.
